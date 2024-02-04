@@ -1,0 +1,37 @@
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+.map-overlay{
+  position:absolute;
+  left: 0;
+  padding: 10px;
+}
+
+.bus-marker {   
+  background-image: url('bus2.png');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+
+.MITU {
+  background-image: url('MIT-Logo2.png'); 
+  background-size: cover;
+  width: 300px;
+  height: 150px;
+  
+}
+
+ .Harvard {
+  background-image: url('Harvard-Logo.png');
+  background-size: cover;
+  width: 200px;
+  height: 120px;
+}
+
+.BUCampus {
+  background-image: url('BU-Logo.png'); 
+  background-size: cover;
+  width: 120px;
+  height: 120px;
+}
